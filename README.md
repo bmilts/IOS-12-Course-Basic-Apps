@@ -1,22 +1,19 @@
-# IOS-12 Course 
-Application completed to learn more intermediate swift, MVC along with user defaults, core data and realm 
+# iOS-12 Course 
+Course started to learn iOS development 
 
-## Sample User Flow
+## Basic Weather App
+
+<img src="weather.gif" width="190" height="350" /> 
+
+## Bitcoin Price Tracker
+
+<img src="bitcoin.gif" width="190" height="350" /> 
+
+## Story App
 
 <img src="todo.gif" width="190" height="350" /> 
 
-## Sample User Flow
-
-<img src="todo.gif" width="190" height="350" /> 
-
-## Sample User Flow
-
-<img src="todo.gif" width="190" height="350" /> 
-
-## Sample User Flow
+## Quiz App
 
 <img src="todo.gif" width="190" height="350" />
 
-## Sample User Flow
-
-<img src="todo.gif" width="190" height="350" />

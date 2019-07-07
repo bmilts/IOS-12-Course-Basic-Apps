@@ -1,5 +1,5 @@
 # iOS-12 Course 
-Course started to learn iOS development 
+Course started to learn iOS development. Basic topics covered over the following apps:
 
 ## Basic Weather App
 
@@ -11,9 +11,9 @@ Course started to learn iOS development
 
 ## Story App
 
-<img src="todo.gif" width="190" height="350" /> 
+<img src="story.gif" width="190" height="350" /> 
 
 ## Quiz App
 
-<img src="todo.gif" width="190" height="350" />
+<img src="quiz.gif" width="190" height="350" />
 

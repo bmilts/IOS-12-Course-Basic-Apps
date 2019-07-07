@@ -1,19 +1,22 @@
-# IOS-12 Course Basic Apps
+# IOS-12 Course 
+Application completed to learn more intermediate swift, MVC along with user defaults, core data and realm 
 
+## Sample User Flow
 
-## Description
+<img src="todo.gif" width="190" height="350" /> 
 
+## Sample User Flow
 
-## Screenshots
+<img src="todo.gif" width="190" height="350" /> 
 
-<img src="/titlepage.png"  width="325" /> <img src="/ml.png"  width="325" /> <img src="/ar.png"  width="325" /> 
+## Sample User Flow
 
-## Features
+<img src="todo.gif" width="190" height="350" /> 
 
-* 
+## Sample User Flow
 
-## Project Information
-- category: Mobile Prototype
-- author: Brendan Milton
-- description: 
-- stack: Swift/Core Data/Realm
+<img src="todo.gif" width="190" height="350" />
+
+## Sample User Flow
+
+<img src="todo.gif" width="190" height="350" />
